@@ -1,8 +1,6 @@
 # Intrusion Detection and Prevention System (IDPS)
 
-<img src="https://img.shields.io/badge/Project-IDPS-blue" />
-<img src="https://img.shields.io/badge/Language-Python-green" />
-<img src="https://img.shields.io/badge/Status-Educational-orange" />
+<img src="https://img.shields.io/badge/Project-IDPS-blue" />   <img src="https://img.shields.io/badge/Language-Python-green" />   <img src="https://img.shields.io/badge/Status-Educational-orange" />
 
 ---
 
