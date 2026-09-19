@@ -47,7 +47,7 @@ It demonstrates basic cybersecurity concepts such as anomaly detection, logging,
 ## clone
  - git clone https://github.com/rahul03yadav03/intrusion-detection-prevention-system.git
 
-
+----
 ##  Project Structure
 
 idps/
